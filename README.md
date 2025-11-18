@@ -16,6 +16,10 @@
 
 <img width="147" height="auto" alt="" src="https://github.com/user-attachments/assets/a99a59ef-b68b-449d-b2e2-cdc3bc94dad5" />
 
+## ドキュメント
+
+https://developer.4d.com/docs/ja/20/Desktop/building
+
 ## ガイドライン
 
 ### Apple
