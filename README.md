@@ -12,7 +12,7 @@
 
 * Mac版アプリケーション
 
-<img width="122" height="138" alt="" src="https://github.com/user-attachments/assets/23a94334-906d-4011-bb49-c9809d87f4d4" />
+<img width="177" height="201" alt="" src="https://github.com/user-attachments/assets/7616ddb6-09d7-4736-8fc6-e003d2f09449" />
 
 * Windows版アプリケーション
 
