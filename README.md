@@ -18,7 +18,7 @@
 
 ## ドキュメント
 
-https://developer.4d.com/docs/ja/20/Desktop/building
+[https://developer.4d.com/docs/ja/20/Desktop/building](https://developer.4d.com/docs/ja/20/Desktop/building#アプリケーションアイコンのカスタマイズ)
 
 ## ガイドライン
 
