@@ -1,5 +1,3 @@
-# 4d-tips-custom-icon
-
 ## アプリケーションのアイコンをカスタマイズするには
 
 1. [Projectフォルダー](https://github.com/miyako/4d-tips-custom-icon/tree/main/custom-icon)と同階層にアイコン画像ファイルを配置します。
