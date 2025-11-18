@@ -2,7 +2,8 @@
 
 ## アプリケーションのアイコンをカスタマイズするには
 
-[`/PROJECT/`フォルダー](https://github.com/miyako/4d-tips-custom-icon/tree/main/custom-icon)と同階層に下記のファイルを置いた上でアプリケーションビルドを実行します。
+1. [Projectフォルダー](https://github.com/miyako/4d-tips-custom-icon/tree/main/custom-icon)と同階層にアイコン画像ファイルを配置します。
+1. アプリケーションビルドを実行します。
 
 * `{プロジェクト名}.icns`（macOSアイコン）
 * `{プロジェクト名}.ico`（Windowsアイコン）
