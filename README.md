@@ -8,4 +8,9 @@
 * `{プロジェクト名}.icns`（macOSアイコン）
 * `{プロジェクト名}.ico`（Windowsアイコン）
 
-<img width="223" height="239" alt="Screenshot 2025-11-18 at 16 45 59" src="https://github.com/user-attachments/assets/e9bfae6c-aa26-4cbe-b50e-865e198d3e22" />
+<img width="223" height="239" alt="" src="https://github.com/user-attachments/assets/e9bfae6c-aa26-4cbe-b50e-865e198d3e22" />
+
+* Mac版アプリケーション
+
+<img width="111" height="107" alt="" src="https://github.com/user-attachments/assets/5c9c0fc3-1b11-4e11-8efd-cac5c6480579" />
+
