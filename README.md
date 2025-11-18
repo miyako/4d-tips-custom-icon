@@ -12,8 +12,8 @@
 
 * Mac版アプリケーション
 
-<img width="177" height="201" alt="" src="https://github.com/user-attachments/assets/7616ddb6-09d7-4736-8fc6-e003d2f09449" />
+<img width="145" height="auto" alt="" src="https://github.com/user-attachments/assets/7616ddb6-09d7-4736-8fc6-e003d2f09449" />
 
 * Windows版アプリケーション
 
-<img width="147" height="130" alt="" src="https://github.com/user-attachments/assets/a99a59ef-b68b-449d-b2e2-cdc3bc94dad5" />
+<img width="147" height="auto" alt="" src="https://github.com/user-attachments/assets/a99a59ef-b68b-449d-b2e2-cdc3bc94dad5" />
